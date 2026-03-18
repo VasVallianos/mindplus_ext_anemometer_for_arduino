@@ -1,0 +1,25 @@
+{
+	"name": {
+		"en": "Anemometer Wind Speed Sensor for Arduino (v.0.1)",
+		"el": "Anemometer Wind Speed Sensor for Arduino (v.0.1)"
+	},
+	"description": {
+		"en": "Anemometer Wind Speed Sensor for Arduino (v.0.1)",
+		"el": "Anemometer Wind Speed Sensor for Arduino (v.0.1)"
+	},
+	"author": "wallia",
+	"email": "v.vallianos@gmail.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "windsens",
+	"platform": ["win", "mac", "web"],
+	"version": "0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.1",
+			"board": ["arduino"],
+			"main": "main.ts"
+		}
+	}
+}

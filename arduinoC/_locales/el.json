@@ -1,0 +1,6 @@
+{
+    
+    "multienv.getWindSpeed|block": "Διάβασε την ταχύτητα του ανέμου σε m/s στο pin [PIN]",
+	"multienv.getBeaufort|block": "Διάβασε την ταχύτητα του ανέμου στην κλίμακα Μποφόρ στο pin [PIN]",
+    
+}
